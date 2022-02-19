@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments on: Sample Page	</title>
-	<atom:link href="https://etivorm.com/index.php/sample-page/feed/" rel="self" type="application/rss+xml" />
+	Comments for ETIVORM	</title>
+	<atom:link href="https://etivorm.com/index.php/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://etivorm.com</link>
 	<description></description>
-	<lastBuildDate>Sat, 19 Feb 2022 20:44:35 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 19 Feb 2022 22:02:39 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
