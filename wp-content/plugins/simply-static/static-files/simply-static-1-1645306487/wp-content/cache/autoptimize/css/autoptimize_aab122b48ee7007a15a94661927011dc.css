@@ -219,12 +219,12 @@ body,button,input,select,textarea{font-family:'Inter',sans-serif;font-weight:400
 .lazy-hidden,.entry img.lazy-hidden,img.thumbnail.lazy-hidden{background-color:#fff;background-image:url('https://etivorm.com/wp-content/plugins/a3-lazy-load/assets/css/loading.gif');background-repeat:no-repeat;background-position:50% 50%}figure.wp-block-image img.lazy-hidden{min-width:150px}picture source[type="image/webp"]{display:block}
 .site-title a,.colors-dark .site-title a,.colors-custom .site-title a,body.has-header-image .site-title a,body.has-header-video .site-title a,body.has-header-image.colors-dark .site-title a,body.has-header-video.colors-dark .site-title a,body.has-header-image.colors-custom .site-title a,body.has-header-video.colors-custom .site-title a,.site-description,.colors-dark .site-description,.colors-custom .site-description,body.has-header-image .site-description,body.has-header-video .site-description,body.has-header-image.colors-dark .site-description,body.has-header-video.colors-dark .site-description,body.has-header-image.colors-custom .site-description,body.has-header-video.colors-custom .site-description{color:}.custom-header-button{color:#fff;border-color:#fff}.custom-header-button:hover{color:#fff}.custom-header-button:hover{background-color:#000;border-color:#000}
 .cmplz-hidden{display:none!important}
-.wp-elements-62115dd47dad1 a{color:#000}
-.wp-elements-62115dd47f058 a{color:#000}
-.wp-elements-62115dd48030b a{color:#000}
-.wp-elements-62115dd4812a8 a{color:#000}
-.wp-elements-62115dd482063 a{color:#000}
-.wp-elements-62115dd482e31 a{color:#000}
-.wp-elements-62115dd483bcf a{color:#000}
+.wp-elements-6211629432e2b a{color:#000}
+.wp-elements-6211629433c47 a{color:#000}
+.wp-elements-6211629435436 a{color:#000}
+.wp-elements-6211629436575 a{color:#000}
+.wp-elements-621162943736c a{color:#000}
+.wp-elements-6211629438349 a{color:#000}
+.wp-elements-621162943a911 a{color:#000}
 #fixed-bottom-menu{position:fixed;left:0;bottom:0;width:100%;margin:0;padding:0}.fixed-bottom-menu-container{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex;flex-diretion:row;-webkit-flex-wrap:nowrap;-ms-flex-wrap:nowrap;flex-wrap:nowrap;-webkit-box-align:stretch;-webkit-align-items:stretch;-moz-box-align:stretch;-ms-flex-align:stretch;align-items:stretch}.fixed-bottom-menu-item{text-align:center;-webkit-align-self:baseline;-ms-flex-item-align:baseline;align-self:baseline}.fixed-bottom-menu-item a{display:block;padding-bottom:env(safe-area-inset-bottom);text-decoration:none}
 #fixed-bottom-menu{line-height:2rem;z-index:30}.fixed-bottom-menu-text{font-size:10px}.fixed-bottom-menu-container{background-color:#aaa4a0}.fixed-bottom-menu-item{-webkit-flex-basis:20%;-ms-flex-preferred-size:20%;flex-basis:20%}.fixed-bottom-menu-item a{color:#fff;padding-top:.15rem;line-height:1rem}.fixed-bottom-menu-item a:hover{color:#000}@media(min-width:1300px){#fixed-bottom-menu{display:none}}
