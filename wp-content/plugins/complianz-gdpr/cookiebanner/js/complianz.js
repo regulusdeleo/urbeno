@@ -424,7 +424,6 @@ function cmplz_insert_placeholder_text(container, service){
 				let btn = body.querySelector('button');
 				btn.setAttribute('data-service', service);
 				btn.setAttribute('aria-label', service);
-				console.log(complianz.region);
 				let pageLinks = complianz.page_links[complianz.region];
 				let link = body.querySelector('.cmplz-links a');
 				if (pageLinks && pageLinks.hasOwnProperty('cookie-statement')) {
@@ -529,8 +528,8 @@ function cmplz_enable_category(category, service) {
 	}
 
 	//remove accept cookie notice overlay
-	document.querySelectorAll('.cmplz-blocked-content-notice .cmplz-accept-'+category+', .cmplz-blocked-content-notice [data-service='+service+']').forEach(obj => {
-		obj.parentNode.remove(obj);
+	document.querySelectorAll('.cmplz-blocked-content-notice.cmplz-accept-'+category+', .cmplz-blocked-content-notice [data-service='+service+']').forEach(obj => {
+		obj.parentNode.removeChild(obj);
 	});
 
 	document.querySelectorAll('[data-category='+category+'], [data-service='+service+']').forEach(obj => {
